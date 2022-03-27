@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8cbcdde9-acd9-c151-f6a9-80c512799763
 resourcetype: Document
 title: The Grid
 uid: efe70b7d-32f3-4ea1-5d7b-ae59d4bbecf6

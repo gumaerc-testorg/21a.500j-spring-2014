@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8cbcdde9-acd9-c151-f6a9-80c512799763
 resourcetype: Document
 title: "\u201CGlyph\u201D \u2013 A Step Towards Isolation"
 uid: f97be155-175b-2bae-73eb-0a2c994c38eb
