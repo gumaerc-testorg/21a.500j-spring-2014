@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, and MIT's Writing and Communication
+  Center.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +33,7 @@ Requirements
 
 Students will write two 6–7 page papers (1800 words or so). Each represents one third of the subject grade. Papers correspond to two thematic sections of the syllabus and will integrate class readings with a topic of each student's choosing. Students will also be evaluated on class participation, including discussion and in-class writing exercises (one third of subject grade). Punctual attendance is obligatory. There is no final.
 
-Students are expected to attend class, complete all assigned readings (approximately 60–90 pages a week) and actively participate in class discussion, which will incorporate readings as well as project assignments. Readings and assignments are to be completed by the session indicated in the [Readings]({{< baseurl >}}/pages/readings) table.
+Students are expected to attend class, complete all assigned readings (approximately 60–90 pages a week) and actively participate in class discussion, which will incorporate readings as well as project assignments. Readings and assignments are to be completed by the session indicated in the {{% resource_link 04ba1481-ae37-c6fb-2ade-744c60dd5366 "Readings" %}} table.
 
 Please bring to class the required readings for each session—a book, or printed hard copies or electronic versions of the articles. You will need these to participate in class discussion, complete in-class exercises, and perform group activities.
 

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, films, guest lecturers,
+  and key dates for assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

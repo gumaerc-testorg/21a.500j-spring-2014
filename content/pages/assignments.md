@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the writing assignments for the
+  course and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -14,7 +16,7 @@ Write a 6–7 page paper about some aspect of technology and identity that has i
 
 ### Student Example
 
-["'Glyph' – A Step Towards Isolation" (PDF)]({{< baseurl >}}/resources/mit21a_500js14_the_glyph)
+{{% resource_link f97be155-175b-2bae-73eb-0a2c994c38eb "\"'Glyph' – A Step Towards Isolation\" (PDF)" %}}
 
 Infrastructure and Social Forms Paper
 -------------------------------------
@@ -23,6 +25,6 @@ For this paper, imagine a future technological infrastructure and the social for
 
 ### Student Example
 
-["The Grid" (PDF)]({{< baseurl >}}/resources/mit21a_500js14_the_grid)
+{{% resource_link efe70b7d-32f3-4ea1-5d7b-ae59d4bbecf6 "\"The Grid\" (PDF)" %}}
 
 Student examples appear courtesy of MIT students and are published with their permission.
