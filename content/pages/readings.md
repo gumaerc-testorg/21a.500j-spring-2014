@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned for each session
+  of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 04ba1481-ae37-c6fb-2ade-744c60dd5366
 ---
@@ -328,7 +333,7 @@ Technological Disasters
 {{< tdopen >}}
 
 
-Petryna, Adriana. "[Biological Citizenship: The Science and Politics of Chernobyl-Exposed Populations](http://www.jstor.org/stable/3655243)." _Osiris_ 2nd Series 19 (2004): 250–65.
+Petryna, Adriana. "[Biological Citizenship: The Science and Politics of Chernobyl-Exposed Populations](http://www.jstor.org/stable/3655243)." _Osiris_ 2{{< sup "nd" >}} Series 19 (2004): 250–65.
 
 Cisterna, Nicolas Sternsdorff. "[Safe and Trustworthy?: Food Safety after Fukushima](https://fukushimaforum.wordpress.com/workshops/sts-forum-on-the-2011-fukushima-east-japan-disaster/manuscripts/session-4a-when-disasters-end-part-i/safe-and-trustworthy-food-safety-after-fukushima/)," An STS Forum on the East Japan Disaster.
 
