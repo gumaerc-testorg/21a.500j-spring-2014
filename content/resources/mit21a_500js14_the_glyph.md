@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work for a writing assignment on technology and identity.
-file: /courses/21a-500j-technology-and-culture-spring-2014/f97be155175b2bae73eb0a2c994c38eb_MIT21A_500JS14_the_glyph.pdf
+file: /ol-ocw-studio-app/courses/21a-500j-technology-and-culture-spring-2014/f97be155175b2bae73eb0a2c994c38eb_MIT21A_500JS14_the_glyph.pdf
 file_size: 241427
 file_type: application/pdf
 learning_resource_types:
