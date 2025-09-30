@@ -12,7 +12,7 @@ uid: 8cbcdde9-acd9-c151-f6a9-80c512799763
 Identity Paper
 --------------
 
-Write a 6–7 page paper about some aspect of technology and identity that has interested you from the syllabus—perhaps to do with work, family, medicine, food, or wearables. Look through the last few years of issues of MIT's [_Technology Review_](http://www.technologyreview.com/) and find an article about a relevant topic. Then, drawing on theories and examples from readings in class so far (e.g., Marx, Gusterson, Cowan, Davis-Floyd, Yates-Doerr, Petryna), write an essay that examines what you think the social dimensions are or might be of the technology you have chosen. Keep in mind that those social dimensions might have to do with the values built into the technology as well as with the implications of the use of technology in practice.
+Write a 6–7 page paper about some aspect of technology and identity that has interested you from the syllabus—perhaps to do with work, family, medicine, food, or wearables. Look through the last few years of issues of MIT's {{% resource_link "6d5154f0-966c-4c88-a04f-a9c2e1e96c63" "_Technology Review_" %}} and find an article about a relevant topic. Then, drawing on theories and examples from readings in class so far (e.g., Marx, Gusterson, Cowan, Davis-Floyd, Yates-Doerr, Petryna), write an essay that examines what you think the social dimensions are or might be of the technology you have chosen. Keep in mind that those social dimensions might have to do with the values built into the technology as well as with the implications of the use of technology in practice.
 
 ### Student Example
 
