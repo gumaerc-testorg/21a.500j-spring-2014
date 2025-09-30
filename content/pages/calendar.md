@@ -53,7 +53,7 @@ Theories of Technology and Culture
 
 ### Film
 
-Excerpt from [_The Matrix_](http://www.imdb.com/title/tt0133093/?ref_=nv_sr_1). Directed by the Wachowski Brothers. Color, 136 min. 1999.
+Excerpt from {{% resource_link "516296fd-9cc0-4ee0-9bb0-2cf9a7e2bdb9" "_The Matrix_" %}}. Directed by the Wachowski Brothers. Color, 136 min. 1999.
 
 
 {{< tdclose >}}
@@ -79,7 +79,7 @@ Labor-Saving Technology and the Worth of Workers
 
 ### Film
 
-Excerpt from [_Modern Times_](http://www.imdb.com/title/tt0027977/?ref_=nv_sr_1). Directed by Charlie Chaplin. Black and White, 87 min. 1936.
+Excerpt from {{% resource_link "4556797f-e804-4839-a031-44ac6386b56c" "_Modern Times_" %}}. Directed by Charlie Chaplin. Black and White, 87 min. 1936.
 
 
 {{< tdclose >}}
@@ -99,7 +99,7 @@ Technologies of Reproduction and Family
 
 ### Film
 
-Excerpt from [_Made in India_](http://www.imdb.com/title/tt1505349/?ref_=fn_al_tt_1). Directed by Rebecca Haimowitz and Vaishali Sinha. Color, 95 min. 2010.
+Excerpt from {{% resource_link "651c9ea0-a1ed-4c3d-be88-dc2e51a315dd" "_Made in India_" %}}. Directed by Rebecca Haimowitz and Vaishali Sinha. Color, 95 min. 2010.
 
 
 {{< tdclose >}}
@@ -119,9 +119,9 @@ Medical Experimentation, Race, and Globalization
 
 ### Films
 
-[_The Deadly Deception_](http://www.imdb.com/title/tt0976864/?ref_=fn_al_tt_1). NOVA. Directed by Denisce DiAnni. Color, 56 min. 1993.
+{{% resource_link "85a5dcf3-3a5f-40e5-9c3b-99d24e7f05d2" "_The Deadly Deception_" %}}. NOVA. Directed by Denisce DiAnni. Color, 56 min. 1993.
 
-Excerpt from [_The Constant Gardener_](http://www.imdb.com/title/tt0387131/?ref_=fn_al_tt_1). Directed by Fernando Meirelles. Color, 129 min. 1995.
+Excerpt from {{% resource_link "eb51fcd6-7051-464b-91d5-e508fa910b1b" "_The Constant Gardener_" %}}. Directed by Fernando Meirelles. Color, 129 min. 1995.
 
 
 {{< tdclose >}}
@@ -151,7 +151,7 @@ Food: If We Are What We Eat, What Are We?
 
 Wearables and Self-Tracking
 
-_Guest lecturer: [Natasha Dow Schüll](http://web.mit.edu/sts/people/schull.html), Associate Professor of Science, Technology, and Society, MIT_
+_Guest lecturer: {{% resource_link "03102cd8-34ab-453c-83ac-f23d159c82ee" "Natasha Dow Schüll" %}}, Associate Professor of Science, Technology, and Society, MIT_
 
 
 {{< tdclose >}}
@@ -175,17 +175,17 @@ Identity paper due
 
 Automobility
 
-_Guest lecturer: [Renée Blackburn](http://web.mit.edu/hasts/graduate/blackburn.html), graduate student, doctoral program in History, Anthropology, Science, and Society, MIT_
+_Guest lecturer: {{% resource_link "af77a326-bd6d-4a96-ae79-abe2eafa7888" "Renée Blackburn" %}}, graduate student, doctoral program in History, Anthropology, Science, and Society, MIT_
 
 ### Films
 
 Excerpts from:
 
-[_Thelma & Louise_](http://www.imdb.com/title/tt0103074/?ref_=fn_al_tt_1). Directed by Ridley Scott. Color, 130 min. 1991.
+{{% resource_link "f7e8d6a5-ed4b-4e0d-9786-ed3187f8ce5e" "_Thelma & Louise_" %}}. Directed by Ridley Scott. Color, 130 min. 1991.
 
-[_Speed_](http://www.imdb.com/title/tt0111257/?ref_=nv_sr_3). Directed by Jan de Bont. Color, 116 min. 1994.
+{{% resource_link "4232d245-1dc1-41d0-9f07-1e1e77c90bbe" "_Speed_" %}}. Directed by Jan de Bont. Color, 116 min. 1994.
 
-[_Minority Report_](http://www.imdb.com/title/tt0181689/?ref_=fn_al_tt_1). Directed by Steven Spielberg. Color, 145 min. 2002.
+{{% resource_link "1bd9b110-a562-4578-9415-46999e61a1cd" "_Minority Report_" %}}. Directed by Steven Spielberg. Color, 145 min. 2002.
 
 
 {{< tdclose >}}
@@ -203,7 +203,7 @@ Excerpts from:
 
 Electricity and Markets
 
-_Guest lecturer: [Canay Özden-Schilling](http://web.mit.edu/hasts/graduate/ozden.html), teaching assistant and graduate student, doctoral program in History, Anthropology, Science, and Society, MIT_
+_Guest lecturer: {{% resource_link "67085978-5d83-4296-b024-c4346bb243bd" "Canay Özden-Schilling" %}}, teaching assistant and graduate student, doctoral program in History, Anthropology, Science, and Society, MIT_
 
 
 {{< tdclose >}}
@@ -223,7 +223,7 @@ Ocean Infrastructures
 
 ### Film
 
-Excerpt from [_Lost at Sea: The Search for Longitude_](http://www.imdb.com/title/tt1398270/?ref_=fn_al_tt_2). NOVA. Directed by Peter Jones. Color, 57 min. 1998.
+Excerpt from {{% resource_link "7ff3036f-cb2d-43d5-9f5f-450b4dfec1a5" "_Lost at Sea: The Search for Longitude_" %}}. NOVA. Directed by Peter Jones. Color, 57 min. 1998.
 
 
 {{< tdclose >}}
@@ -245,11 +245,11 @@ Computers, Networked, Then and Now
 
 Excerpts from:
 
-[_War Games_](http://www.imdb.com/title/tt0086567/?ref_=fn_al_tt_1). Directed by John Badham. Color, 114 min. 1983.
+{{% resource_link "b127c84b-4bca-4a91-b3fb-9ad4cb497949" "_War Games_" %}}. Directed by John Badham. Color, 114 min. 1983.
 
-[_Tron_](http://www.imdb.com/title/tt0084827/?ref_=fn_al_tt_1). Directed by Steven Lisberger. Color, 96 min. 1982.
+{{% resource_link "19b3542b-ea52-4975-a1ce-2a00c12e3770" "_Tron_" %}}. Directed by Steven Lisberger. Color, 96 min. 1982.
 
-[_Terra Blight_](http://www.imdb.com/title/tt2094129/?ref_=fn_al_tt_1). Directed by Isaac Brown. Color, 55 min. 2012.
+{{% resource_link "21613f41-664b-4c10-a9f7-2b6b25239609" "_Terra Blight_" %}}. Directed by Isaac Brown. Color, 55 min. 2012.
 
 
 {{< tdclose >}}
@@ -271,9 +271,9 @@ Disorienting Infrastructures: Underground and Outer Space
 
 Excerpts from:
 
-[_Moebius_](http://www.imdb.com/title/tt0117069/?ref_=fn_al_tt_2). Directed by Gustavo Mosquera. Color, 88 min. 1996.
+{{% resource_link "2d702e43-d290-4b6c-9733-c3e8846d0246" "_Moebius_" %}}. Directed by Gustavo Mosquera. Color, 88 min. 1996.
 
-[_Gravity_](http://www.imdb.com/title/tt1454468/?ref_=nv_sr_1). Directed by Alfonso Cuarón. Color, 91 min. 2013.
+{{% resource_link "dd2d49c3-f2a2-438e-a2e1-6747bcbbea8f" "_Gravity_" %}}. Directed by Alfonso Cuarón. Color, 91 min. 2013.
 
 
 {{< tdclose >}}
@@ -295,9 +295,9 @@ Technological Disasters
 
 Excerpts from:
 
-[_Half Life_](http://www.imdb.com/title/tt0089247/?ref_=fn_al_tt_1). Directed by Dennis O’Rourke. Color, 87 min. 1986.
+{{% resource_link "3d16aee1-4200-4a75-ac70-da10f3fb3b14" "_Half Life_" %}}. Directed by Dennis O’Rourke. Color, 87 min. 1986.
 
-[_Containment: Life After Three Mile Island_](http://www.imdb.com/title/tt0409841/?ref_=fn_al_tt_1). Directed by Chris Boebel and Nick Poppy. Color, 60 min. 2004.
+{{% resource_link "bc000bf4-8d5f-48a7-8a3b-dabb705af9a3" "_Containment: Life After Three Mile Island_" %}}. Directed by Chris Boebel and Nick Poppy. Color, 60 min. 2004.
 
 
 {{< tdclose >}}

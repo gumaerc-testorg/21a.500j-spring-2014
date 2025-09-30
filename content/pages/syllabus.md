@@ -26,7 +26,7 @@ This 9-unit subject examines relationships among technology, culture, and politi
 
 Classes will combine interactive lectures, film screenings, and discussion. Each class is keyed to a set of readings, and it is crucial that students keep up with the readings and be prepared to discuss them in class. Some lectures will directly engage our readings while others will provide contextualizing historical and theoretical information. We will routinely break into small groups for more concentrated discussion. Class participation will count strongly towards the final grade.
 
-We expect students to adhere to MIT's guidelines on academic integrity. Plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty may cause us to contact the [Office of Student Conduct](https://studentlife.mit.edu/osc) or [Committee on Discipline](http://web.mit.edu/committees/cod/). If you have questions about what qualifies as plagiarism and how to avoid it—and for tips on how to succeed—check out: [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/).
+We expect students to adhere to MIT's guidelines on academic integrity. Plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty may cause us to contact the {{% resource_link "b15cadde-ea60-41fc-b9b8-fc02259de265" "Office of Student Conduct" %}} or {{% resource_link "f1cf09cd-0225-48de-a059-a28f787690c0" "Committee on Discipline" %}}. If you have questions about what qualifies as plagiarism and how to avoid it—and for tips on how to succeed—check out: {{% resource_link "ed777b09-6c3c-4ac4-9759-25fa4417f1e8" "Academic Integrity at MIT: A Handbook for Students" %}}.
 
 Requirements
 ------------
@@ -40,4 +40,4 @@ Please bring to class the required readings for each session—a book, or printe
 Writing and Communication Center
 --------------------------------
 
-MIT's [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) offers free consultation as well as on-line help to MIT students at any stage of the writing process. Get help overcoming writer's block and formulating an argument, and with questions on grammar and style. (Writing Center consultants do not proofread, but they do offer help with grammar and beyond).
+MIT's {{% resource_link "df27ed28-d199-488b-a971-2ae2b46891b2" "Writing and Communication Center" %}} offers free consultation as well as on-line help to MIT students at any stage of the writing process. Get help overcoming writer's block and formulating an argument, and with questions on grammar and style. (Writing Center consultants do not proofread, but they do offer help with grammar and beyond).
